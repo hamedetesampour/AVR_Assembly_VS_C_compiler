@@ -1,4 +1,3 @@
-# AVR_Assembly_VS_C_compiler
 ## Assembly VS C language in AVR microcontroller programming
 This project is aiming to compare the Assembly code and the equivalent C code to compate different approaches of programming a microcontroller. This goal is achived by implementing a simple 7_seg_blink program. The codes had been written in Atmel Studio (for Assebly language) and CodeVisionAVR (for C language).
 ## Test & Simulate
